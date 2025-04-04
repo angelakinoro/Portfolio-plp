@@ -6,7 +6,7 @@ In this portfolio, you'll find a collection of projects that demonstrate my skil
 
 ## Live Demo
 
-You can view my portfolio live at:  
+You can view my portfolio live at:  https://plpportfolioangela.netlify.app/
 
 
 ## About Me
